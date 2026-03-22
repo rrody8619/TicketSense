@@ -1,0 +1,18 @@
+# Core ML & Data
+pandas
+numpy
+scikit-learn
+joblib
+imbalanced-learn
+
+# NLP
+nltk
+
+# Backend / API
+fastapi
+uvicorn
+pydantic
+
+# Frontend UI
+streamlit
+requests
